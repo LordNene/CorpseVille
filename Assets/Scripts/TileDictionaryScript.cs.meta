@@ -1,0 +1,70 @@
+fileFormatVersion: 2
+guid: e62f0f2ece6d19f46b295c10aa531c7a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - GrassOne: {fileID: 11400000, guid: d9ade4b763b6b2640841e6972e268d1d, type: 2}
+  - GrassTwo: {fileID: 11400000, guid: e1ab7bfabe29bf244a41a32f32d7126a, type: 2}
+  - GrassThree: {instanceID: 0}
+  - GrassFour: {fileID: 11400000, guid: e1ab7bfabe29bf244a41a32f32d7126a, type: 2}
+  - GrassFive: {instanceID: 0}
+  - DigOne: {fileID: 11400000, guid: 0c29ed69603c31246821522ac977edf2, type: 2}
+  - DigTwo: {fileID: 11400000, guid: 0017d53f48fcc8a4e8cf24e1f13f28a3, type: 2}
+  - DigThree: {fileID: 11400000, guid: 7197715ae6a089a4aa27c9534c3584bc, type: 2}
+  - DigFour: {fileID: 11400000, guid: 0ecacd9ec70a2fc44afab245c276d76b, type: 2}
+  - DigFive: {fileID: 11400000, guid: 7278d41528d9ab543b588bd3558a108d, type: 2}
+  - DigCoffinInside: {fileID: 11400000, guid: a24aeea4c60348142a6a44f9fe5f876d, type: 2}
+  - GraveWithoutCross: {instanceID: 0}
+  - GravePlebOne: {instanceID: 0}
+  - GravePlebTwo: {instanceID: 0}
+  - GravePlebThree: {instanceID: 0}
+  - GraveCasioOne: {instanceID: 0}
+  - GraveCasioTwo: {instanceID: 0}
+  - GraveCasioThree: {instanceID: 0}
+  - GraveRolexOne: {instanceID: 0}
+  - GraveRolexTwo: {instanceID: 0}
+  - GraveRolexThree: {instanceID: 0}
+  - PlebGraveGroving1: {instanceID: 0}
+  - PlebGraveGroving2: {instanceID: 0}
+  - PlebGraveGroving3: {instanceID: 0}
+  - PlebGraveGroving4: {instanceID: 0}
+  - PlebGraveGroving5: {instanceID: 0}
+  - CasioGraveGroving1: {fileID: 11400000, guid: 20c8c7c5662ed384d877b9678257134d,
+      type: 2}
+  - CasioGraveGroving2: {fileID: 11400000, guid: e6a470c1171b96b479caeab6251172cf,
+      type: 2}
+  - CasioGraveGroving3: {fileID: 11400000, guid: d7c9a2450b92ef44d83345b6bc656254,
+      type: 2}
+  - RolexGraveGroving1: {instanceID: 0}
+  - RolexGraveGroving2: {instanceID: 0}
+  - RolexGraveGroving3: {instanceID: 0}
+  - House: {instanceID: 0}
+  - Road: {instanceID: 0}
+  - HalfRoadHorizontal: {instanceID: 0}
+  - HalfRoadVertical: {instanceID: 0}
+  - HalfRoadCornerT: {instanceID: 0}
+  - HalfRoadCornerB: {instanceID: 0}
+  - HalfRoadCornerL: {instanceID: 0}
+  - HalfRoadCornerR: {instanceID: 0}
+  - FenceGate: {instanceID: 0}
+  - CoffinInQueue1: {fileID: 11400000, guid: 077f5b72b0e60d44e9e8fec04a15184b, type: 2}
+  - CoffinInQueue2: {fileID: 11400000, guid: a973a5582417ad949901d06daf92bda6, type: 2}
+  - Lamp: {instanceID: 0}
+  - FenceHorizontal: {instanceID: 0}
+  - FenceVertical: {instanceID: 0}
+  - FenceCornerT: {instanceID: 0}
+  - FenceCornerB: {fileID: 11400000, guid: b8590b9f205354540a1f8184d37a061c, type: 2}
+  - FenceCornerL: {fileID: 11400000, guid: c0a792e347763c74e89137af40e2a1b2, type: 2}
+  - FenceCornerR: {instanceID: 0}
+  - BenchHorizontal: {fileID: 11400000, guid: ce1655970609a364f8a04f6d35e09ae9, type: 2}
+  - BenchVertical: {fileID: 11400000, guid: aa69f28ea8be6874b95c2ad695b53493, type: 2}
+  - StatueHorizontal: {instanceID: 0}
+  - StatueVertical: {instanceID: 0}
+  - Tree1: {instanceID: 0}
+  - Tree2: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

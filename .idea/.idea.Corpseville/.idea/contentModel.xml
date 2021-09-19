@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\JBoho\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\JBoho\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_Corpseville.2046073911.00" t="ExcludeRecursive" />
+    <e p="D:\Unity\Corpseville\Corpseville" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Achievement.cs" t="Include" />
+          <e p="AchievementData.cs" t="Include" />
+          <e p="AchievementManager.cs" t="Include" />
+          <e p="AdController.cs" t="Include" />
+          <e p="AtributesManagerScript.cs" t="Include" />
+          <e p="AudioManager.cs" t="Include" />
+          <e p="BrainScript.cs" t="Include" />
+          <e p="CemeteryData.cs" t="Include" />
+          <e p="ChestPopUpScript.cs" t="Include" />
+          <e p="ChunkData.cs" t="Include" />
+          <e p="ChunkManagerScript.cs" t="Include" />
+          <e p="ClickScript.cs" t="Include" />
+          <e p="CoinPickUp.cs" t="Include" />
+          <e p="ExpandPopUpScript.cs" t="Include" />
+          <e p="ILevelUpAction.cs" t="Include" />
+          <e p="IsometricPlayerMovementController.cs" t="Include" />
+          <e p="ItemScript.cs" t="Include" />
+          <e p="MainMenuScript.cs" t="Include" />
+          <e p="MoneyScript.cs" t="Include" />
+          <e p="ObjectSpawner.cs" t="Include" />
+          <e p="PanZoom.cs" t="Include" />
+          <e p="PureTileData.cs" t="Include" />
+          <e p="SaveSystem.cs" t="Include" />
+          <e p="Sound.cs" t="Include" />
+          <e p="StoreContentManager.cs" t="Include" />
+          <e p="TabController.cs" t="Include" />
+          <e p="TestButtonScript.cs" t="Include" />
+          <e p="TestSaveLoadScript.cs" t="Include" />
+          <e p="TestTileScript.cs" t="Include" />
+          <e p="TileData.cs" t="Include" />
+          <e p="TileDataManager.cs" t="Include" />
+          <e p="TileDictionaryScript.cs" t="Include" />
+          <e p="UIScript.cs" t="Include" />
+          <e p="UnityAdsScript.cs" t="Include" />
+          <e p="ZombieScript.cs" t="Include" />
+        </e>
+        <e p="UnityAds" t="Include">
+          <e p="link.xml" t="Include" />
+        </e>
+      </e>
+      <e p="Corpseville.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
